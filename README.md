@@ -1,4 +1,5 @@
-#MERN Job Portal
+**MERN Job Portal**
+
 Welcome to the MERN Job Portal! This is a full-stack web application built using the MERN stack, designed to help users find and apply for job opportunities.
 
 Features:
